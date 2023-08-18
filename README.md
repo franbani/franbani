@@ -1,5 +1,5 @@
 - 💡 Knowledge in C, Python, C#, SQL
-- 📚 Studying my 6º year of IT in: Instituto Politécnico Superior
+- 📚 Studying my 6th year of IT in: Instituto Politécnico Superior
 - 📫 bani.francoo@gmail.com
 
 <!---
