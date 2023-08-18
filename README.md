@@ -1,5 +1,5 @@
 - 💡 Conocimientos en lenguajes: C, Python, C#, SQL
-- 🌱 Estudiante del Instituto Politécnico Superior, 6º año de la Tecnicatura en Informática 
+- 📚 Cursando 6º año de la Tecnicatura en Informática: Instituto Politécnico Superior
 - 📫 bani.francoo@gmail.com
 
 <!---
